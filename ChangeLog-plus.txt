@@ -1,37 +1,17 @@
-{"version_code":451184,"content":"
-<p>ÊÍÏíË 9.10</p>
+{"version_code":451210,"content":"
+<p>ØªØ­Ø¯ÙŠØ« 1.30</p>
 
-<li>ÇáÊÍÏíË áäÓÎÉ ÇáãÇÑßÊ 2.16.310</li>
-<li>ÅÖÇÝÉ ÝíÓÇÊ ÇáæÇÊÓ ÇÈ ÇáÌÏíÏÉ</li>
-<li>ÅãßÇäíÉ ÊÚÏíá ÇáÕæÑ ÞÈá ÇÑÓÇáåÇ(ÇáÑÓã - ÇáßÊÇÈÉ ÅÖÇÝÉ ÇáãáÕÞÇÊ Úáì ÇáÕæÑ)</li>
-<li>(ÍÕÑíÇ) ÅãßÇäíÉ ÇáÇÊÕÇá ãßÇáãÉ åÇÊÝíÉ ãä ÏÇÎá ÇáæÇÊÓ ÇÈ</li>
-<li>ÅÖÇÝÉ ÇáÎíÇÑ 2.5.4 áÊÍÏíÏ ãÏÉ ÊäÈíå ãä ÇÕÈÍ ãÊÕá æãä ÒÇÑ ÈÑæÝÇíáß</li>
-<li>ÅÖÇÝÉ ÇáÎíÇÑ ÑÞã 5.3 áÊÍÏíÏ ÍÌã ÇáãÞØÚ ÇáÕæÊí ÇáãÑÓá á 100 ãíÛÇ ÈÏáÇ ãä 16 ãíÛÇ</li>
-<li>ÅÖÇÝÉ ÇáÎíÇÑ 2.2.2c áÍÓÇÈ ÇáæÞÊ ÇáãäÞÖí áÇÎÑ ÙåæÑ </li>
-<li>ÅÖÇÝÉ ÇáÎíÇÑ ÑÞã 2.4.14 áÊÛííÑ áæä ÇÓã ÇáãÌãæÚÉ æÏÚã ÊÛííÑ Ëíã ÔÇÔÉ ÇÚÇÏÉ ÇáÊæÌíå ãä ÇáÞÓã 2.4</li>
-<li>ÅÖÇÝÉ ÇáÎíÇÑ ÑÞã 3.14 áÊÛííÑ áæä ÇíÞæäÉ ÇáÝíÓÇÊ Ýí ÔÇÔÉ ÇáÅÔÚÇÑÇÊ ÇáãäÈËÞÉ</li>
-<li>ÅÕáÇÍ ÚÏã ÝÊÍ ÓÌá whatsapp.log</li>
-<li>ÅÖÇÝÉ ÇáÊÑÌãÉ ááÛÉ ÇáÝÇÑÓííÉ</li>
-<li>ÅÕáÇÍ ÇáÚæÏÉ ááÎáÝíÉ ÇáÇÝÊÑÇÖíÉ ÚäÏ ÇÓÊÎÏÇã ÎáÝíÉ ãÎÕÕÉ áßá ãÍÇÏËÉ (ÇáÎíÇÑ 1.2.0)</li>
-<li>ÅÕáÇÍ æíÏÌÊ ÅÎÝÇÁ ÇáÙåæÑ Ýí ÈÚÖ ÇáÇÌåÒÉ</li>
-<li>ÊÚÏíá ÇáÊÑÌãÉ Ýí ÇááÛÉ ÇáÚÑÈíÉ</li>
-<li>ÅÕáÇÍÇÊ ÇÎÑì</li>
+<li> ï»³ï»¤ï»œï»¨ï»š ïºïº¿ïºŽï»“ïº” ï»£ï» ïº¼ï»˜ïºŽïº• ï»Ÿï» ï»®ïºïº—ïº´ïºŽïº ï»£ï»¦ ïº—ï»„ïº’ï»´ï»˜ïºŽïº• ïºï»Ÿï»¤ïºŽïº­ï»›ïº– </li>
+<li> ïº‡ïº¿ïºŽï»“ïº” ïº§ï»„ï»®ï» ïºŸïºªï»³ïºªïº“ </li>
+<li> ïº‡ïº¿ïºŽï»“ïº” ïºï»³ï»˜ï»®ï»§ïºŽïº• ïºŸïºªï»³ïºªïº“ </li>
+<li> ïº‡ïº¿ïºŽï»“ïº” ïºï»Ÿïº¨ï»´ïºŽïº­ 6.21 ï»Ÿïº˜ï»Œï»„ï»´ï»ž ï»“ïº˜ïº¢ ïºï»Ÿï»¤ïº¤ïºŽïº©ïº›ïºŽïº• ïºï»Ÿï»¤ïº¨ï»”ï»´ïº” ïº‘ï»Œïºª ïºï»Ÿï»€ï»ï»‚ ï»‹ï» ï»° ï»›ï» ï»¤ïº” WhatsApp</li>
+<li> ï»³ï»¤ï»œï»¨ï»š ïº—ïº®ïº—ï»´ïº ï»‹ïº®ïº½ ïºï»Ÿïº®ïº³ïºŽïº‹ï»ž ïº£ïº´ïº ïºï»»ï»—ïºªï»¡ ïºï»­ ïºï»»ïº£ïºª ïº‘ï»Œïºª ï»‹ïº®ïº½ ïºï»Ÿïº®ïº³ïºŽïº‹ï»ž ïºï»Ÿï»¤ïº®ïº³ï» ïº” ï»£ï»¦ ï»—ïº’ï»ž ïºï»± ïº·ïº¨ïºº ï»“ï»² ïºï»Ÿï»¤ïº ï»¤ï»®ï»‹ïº” </li>
+<li> ï»³ï»¤ï»œï»¨ï»š ïº—ïºœïº’ï»´ïº– Ù£Ù  ï»£ïº¤ïºŽïº©ïº›ïº” ïº‘ïºªï»» ï»£ï»¦ Ù¢Ù¥ ï»£ïº¤ïºŽïº©ïº›ïº” </li>
+<li> ïº‡ïº¿ïºŽï»“ïº” ï»§ïºŽï»“ïº¬ïº“ ïº—ïº„ï»›ï»´ïºª ï»‹ï»¨ïºª ïºï»»ïº—ïº¼ïºŽï» ïº‘ïº¸ïº¨ïºº ï»£ïºŽ ï»£ï»¦ ïº©ïºïº§ï»ž ïºï»Ÿï»¤ïº ï»¤ï»®ï»‹ïº” </li>
+<li> ïºïº»ï»¼ïº¡ ïºï»»ï»³ï»˜ïºŽï»‘ ïºï»»ïºŸïº’ïºŽïº­ï»± ï»‹ï»¨ïºªï»± ïºïº§ïº˜ï»´ïºŽïº­ ïºï»›ïºœïº® ï»£ï»¦ ïº·ïº¨ïºº ï»“ï»² ï»—ïºŽïº‹ï»¤ïº” ïºï»Ÿïº®ïº© ïºï»Ÿïº˜ï» ï»˜ïºŽïº‹ï»² ï»­ ïºï»Ÿïº®ïº³ïºŽïº‹ï»ž ïºï»Ÿï»¤ïº ïºªï»­ï»Ÿïº” </li>
+<li> ïºïº»ï»¼ïº¡ ïº§ï»´ïºŽïº­ ïº—ï»ï»´ï»´ïº® ïºï»Ÿï» ï»ïº” ï»“ï»² ïºïº»ïºªïºïº­ ïºï»­ïº­ï»³ï»® ï»­ïºï»‹ï» ï»° </li>
+<li> ïºïº»ï»¼ïº¡ ï»‡ï»¬ï»®ïº­ ï»§ïºŽï»“ïº¬ïº“ ï»‹ïº®ïº½ ïºï»Ÿïº®ïº³ïºŽïº‹ï»ž ïºï»Ÿï»¤ïº®ïº³ï» ïº” ïº‘ï»Œïºª ïºï»Ÿï»€ï»ï»‚ ï»‹ï» ï»° ï»‹ïº®ïº½ ïºï»Ÿï»¤ïº°ï»³ïºª ï»“ï»² ï»£ï»Œï» ï»®ï»£ïºŽïº• ïºï»Ÿï»¤ïº ï»¤ï»®ï»‹ïº” </li>
+<li> ïº‡ïº»ï»¼ïº£ïºŽïº• ïºïº§ïº®ï»¯ </li>
 
-
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
-
-","url":"www.azmods.co"
+","url":"https://aligama92358.blogspot.com/2018/07/lywhatsapp.html"
 }
