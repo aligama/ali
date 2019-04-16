@@ -1,4 +1,4 @@
-{"version_code":451211,"content":"
+{"version_code":451210,"content":"
 <p>تحديث 1.40</p>
 LYWhatsApp
 </li>إضافة الفيسات الجديدة</li>
