@@ -1,6 +1,5 @@
-
 1
-{ "VERSION_CODE": 8، "المحتوى": "
+{ "VERSION_CODE": 9، "المحتوى": "
 2
 <p> تحديث 1.40 </p>
 3
@@ -10,3 +9,5 @@ WGWhatsApp
 "،" رابط ":" https://aligama92358.blogspot.com/2019/11/wgwhatsapp.html "
 12
 }
+
+​
