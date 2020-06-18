@@ -1,4 +1,4 @@
-{ "VERSION_CODE": 2، "المحتوى": "
+{ "VERSION_CODE": 2، "content": "
 
 <p> تحديث 1.40 </p>
 3
