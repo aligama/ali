@@ -1,4 +1,4 @@
-{"version_code":2"content":"
+{"version_code":3"content":"
 <p>تحديث إصلاحي</p>
 
 <li> إصلاح مشكلة إنهيار البرنامج عند إرسال فيديو</li>
